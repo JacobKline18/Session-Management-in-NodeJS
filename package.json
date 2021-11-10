@@ -1,0 +1,11 @@
+{
+  "name": "sessions-tutorial",
+  "version": "1.0.0",
+  "description": "a tutorial on sessions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Kline",
+  "license": "ISC"
+}
